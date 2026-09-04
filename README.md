@@ -47,7 +47,8 @@ Tools & Platforms
 ## GitHub Stats
 
 <div align="center">
-![](https://streak-stats.demolab.com/?user=kananshr13&theme=noctis_minimus&hide_border=true)<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kananshr13&theme=noctis_minimus&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
