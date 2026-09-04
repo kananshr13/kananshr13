@@ -45,7 +45,15 @@ Tools & Platforms
 ---
 
 ## GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kananshr13&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kananshr13&layout=compact&hide_border=true&langs_count=8&theme=transparent" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=kananshr13&hide_border=true&theme=transparent" /> </div>
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=kananshr13&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=888888&text_color=999999&icon_color=888888"
+  alt="Kanan's GitHub Stats"
+/>
+
+</div>
 
 ---
 
@@ -66,4 +74,7 @@ Tools & Platforms
 
 </div>
 
+---
+
+### KANAN SHARMA  2026
 
