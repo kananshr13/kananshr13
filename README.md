@@ -49,8 +49,8 @@ Tools & Platforms
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=kananshr13&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=888888&text_color=999999&icon_color=888888"
-  alt="Kanan's GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=kananshr13&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&cache_seconds=86400"
+  alt="GitHub Stats"
 />
 
 </div>
