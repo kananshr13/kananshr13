@@ -47,11 +47,7 @@ Tools & Platforms
 ## GitHub Stats
 
 <div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=kananshr13&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&cache_seconds=86400"
-  alt="GitHub Stats"
-/>
+![](https://streak-stats.demolab.com/?user=kananshr13&theme=noctis_minimus&hide_border=true)<br/>
 
 </div>
 
